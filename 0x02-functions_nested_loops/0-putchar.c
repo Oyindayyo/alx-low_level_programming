@@ -1,37 +1,39 @@
-#include "main.h"
+        #include "main.h"
 
-/**
+        
 
- * main - Entry point
+        
 
- *
+        /**
 
- * Return: Always 0 (Success)
+         *  * main - Entry point
 
- */
+         *   *
 
-int main(void)
+         *    * Return: Alway 0 (Success)
 
-{
+         *     */
 
-	_putchar('_');
+        int main(void)
 
-	_putchar('p');
+        {
 
-    _putchar('u');
+        		_putchar('_');        			_putchar('p');
 
-	_putchar('t');
+        				_putchar('u');
 
-	_putchar('c');
+        					_putchar('t');
 
-	_putchar('h');
+        						_putchar('c');
 
-	_putchar('a');
+        							_putchar('h');
 
-	_putchar('r');
+        								_putchar('a');
 
-	_putchar('\n');
+        									_putchar('r');
 
-	return (0);
+        										_putchar('\n');
 
-}    
+        											return (0);
+
+        }    
